@@ -1,0 +1,122 @@
+package Colecciones.Linked;
+
+import java.util.*;
+
+public class Linksda {
+    public static void main(String[] args) {
+        List<String> lugares = new LinkedList<>();
+
+        lugares.add("Roma");
+        lugares.add("Paris");
+        lugares.add("Alemania");
+        lugares.add("Toronto");
+        lugares.add("Miami");
+
+        for (String lugar: lugares) {
+            System.out.println(lugar);
+        }
+
+        Iterator<String> it = lugares.iterator();
+        while (it.hasNext()) {
+            String lugar = it.next();
+            System.out.println(lugar);
+        }
+
+        Iterator<String> iter = lugares.iterator();
+        while (iter.hasNext()){
+            String ruta = it.next();
+            if (ruta.equals("Amsterdam"));
+            //PARA BORRAR USA EL ITERADOR
+            iter.remove();
+        }
+
+        for (String ruta: lugares) {
+            System.out.println(ruta);
+        }
+
+        //visitarLugar((LinkedList<>) lugares);
+    }
+
+    private static boolean addInOrder(LinkedList<String> lugares, String newItem) {
+        ListIterator<String> it = lugares.listIterator();
+        while (it.hasNext()) {
+            int comparacion = it.next().compareTo(newItem);
+            if (comparacion == 0) {
+                //no queremos añadir porque no queremos tener duplicados
+                System.out.println("el lugar " + newItem + " ya está incluido");
+                return false;
+            } else if (comparacion > 0) { //newItem es más pequeño
+                it.previous();
+                it.add(newItem);
+                return true;
+            }
+        }
+        it.add(newItem);
+        return true;
+    }
+
+    public static void visitarLugar(LinkedList<String> lugares) {
+        Scanner scanner = new Scanner(System.in);
+        boolean continuar = true;
+        ListIterator<String> it = lugares.listIterator();
+
+        if (lugares.isEmpty()) {
+            System.out.println("No hay lugares visitados");
+            return;
+        } else {
+            System.out.println("Visitando " + it.next());
+            imprimirMenu();
+        }
+
+        boolean haciaAdelante = true;
+
+        while(continuar) {
+            int opcion = scanner.nextInt();
+            scanner.nextLine();
+            switch (opcion) {
+                case 0:
+                    System.out.println("Se acabaron las vacaciones");
+                    continuar = false;
+                    break;
+                case 1:
+                    if (!haciaAdelante) {
+                        if (it.hasNext())
+                            it.next();
+                        haciaAdelante = true;
+                    }
+                    if (it.hasNext()) {
+                        System.out.println("Visitando " + it.next());
+                    } else {
+                        System.out.println("Ya no hay más ciudades");
+                        haciaAdelante = false;
+                    }
+                    break;
+                case 2:
+                    if(haciaAdelante) {
+                        if (it.hasPrevious())
+                            it.previous();
+                        haciaAdelante = false;
+                    }
+                    if (it.hasPrevious()) {
+                        System.out.println("Visitando " + it.previous());
+                    } else {
+                        System.out.println("Primera ciudad");
+                        haciaAdelante = true;
+                    }
+                    break;
+                case 3:
+                    imprimirMenu();
+                    break;
+            }
+        }
+    }
+
+    public static void imprimirMenu() {
+        System.out.println("0 - Para salir\n" +
+                "1 - para ir a la siguiente ciudad\n" +
+                "2 - para ir a la ciudad anterior\n" +
+                "3 - imprimir el menú");
+    }
+
+
+}
