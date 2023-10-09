@@ -1,4 +1,4 @@
-package severo.prg.Tema3;
+package ProgramacionPrimero.src.severo.prg.Tema3;
 
 public class Calculo {
     public static double obtenerSuma(double d1, double d2) {

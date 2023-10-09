@@ -1,4 +1,4 @@
-package Colecciones.Final;
+package ProgramacionPrimero.src.Colecciones.Final;
 
 public class Password {
     private final int clave = 67294358;

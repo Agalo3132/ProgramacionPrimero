@@ -1,3 +1,5 @@
+package ProgramacionPrimero.src;
+
 import java.util.Scanner;
 
 public class Idea {

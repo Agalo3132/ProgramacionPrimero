@@ -1,4 +1,4 @@
-package severo.prg;
+package ProgramacionPrimero.src.severo.prg;
 
 public class ListaTest {
     public static void main(String[] args) {

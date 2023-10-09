@@ -1,4 +1,4 @@
-package Colecciones.ATarea6;
+package ProgramacionPrimero.src.Colecciones.ATarea6;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package Colecciones.ArrayListas;
+package ProgramacionPrimero.src.Colecciones.ArrayListas;
 
 import java.util.ArrayList;
 import java.util.List;

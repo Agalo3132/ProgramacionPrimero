@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA;
+package ProgramacionPrimero.src.severo.prg.HERENCIA;
 
 //Heredo atributos y metodos, menos constructores
 public class Programador extends Empleado{

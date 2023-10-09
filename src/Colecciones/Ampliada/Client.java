@@ -1,4 +1,4 @@
-package Colecciones.Ampliada;
+package ProgramacionPrimero.src.Colecciones.Ampliada;
 
 import java.util.HashMap;
 import java.util.Objects;

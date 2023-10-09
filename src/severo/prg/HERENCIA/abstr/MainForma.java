@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.abstr;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.abstr;
 
 public class MainForma {
     Rectangulo rc = new Rectangulo(10);

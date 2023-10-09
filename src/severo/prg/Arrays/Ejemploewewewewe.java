@@ -1,4 +1,4 @@
-package severo.prg.Arrays;
+package ProgramacionPrimero.src.severo.prg.Arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

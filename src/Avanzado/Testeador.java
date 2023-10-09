@@ -1,4 +1,4 @@
-package Avanzado;
+package ProgramacionPrimero.src.Avanzado;
 
 interface Finder1 {
     Integer f(Integer f1);

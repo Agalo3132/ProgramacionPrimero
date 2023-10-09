@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.composicion;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.composicion;
 
 public class Procesador {
 

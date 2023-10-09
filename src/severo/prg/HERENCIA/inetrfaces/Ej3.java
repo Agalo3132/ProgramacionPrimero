@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.inetrfaces;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.inetrfaces;
 
 public class Ej3 implements java.lang.CharSequence {
     @Override

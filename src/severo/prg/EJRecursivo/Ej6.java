@@ -1,4 +1,4 @@
-package severo.prg.EJRecursivo;
+package ProgramacionPrimero.src.severo.prg.EJRecursivo;
 
 public class Ej6 {
     public static boolean esPalindromo(String str) {

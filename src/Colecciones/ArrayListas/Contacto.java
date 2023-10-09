@@ -1,4 +1,4 @@
-package Colecciones.ArrayListas;
+package ProgramacionPrimero.src.Colecciones.ArrayListas;
 
 public class Contacto {
     private String name;

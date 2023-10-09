@@ -1,4 +1,4 @@
-package severo.prg.morralla;
+package ProgramacionPrimero.src.severo.prg.morralla;
 
 public class Ejemplo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Avanzado.Predct;
+package ProgramacionPrimero.src.Avanzado.Predct;
 
 class Scrapper extends Employee {
     public Scrapper(String name, int age) {

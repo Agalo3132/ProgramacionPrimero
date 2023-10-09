@@ -1,4 +1,4 @@
-package severo.prg.Arrays;
+package ProgramacionPrimero.src.severo.prg.Arrays;
 
 public class Reverseholahola {
     public static void reverse(int[] array){

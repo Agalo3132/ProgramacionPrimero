@@ -1,4 +1,4 @@
-package Avanzado.Streams;
+package ProgramacionPrimero.src.Avanzado.Streams;
 
 import java.util.*;
 import java.util.function.Predicate;

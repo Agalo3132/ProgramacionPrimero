@@ -1,4 +1,4 @@
-package Colecciones.Linked;
+package ProgramacionPrimero.src.Colecciones.Linked;
 
 //tendremos un atributo cadena llamado term
 

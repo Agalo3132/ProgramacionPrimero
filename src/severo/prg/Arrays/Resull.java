@@ -1,4 +1,4 @@
-package severo.prg.Arrays;
+package ProgramacionPrimero.src.severo.prg.Arrays;
 
 public class Resull {
     public static int minGap(int[] array) {

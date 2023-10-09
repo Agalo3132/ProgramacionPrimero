@@ -1,4 +1,4 @@
-package Avanzado.Predct;
+package ProgramacionPrimero.src.Avanzado.Predct;
 
 import java.time.LocalDate;
 import java.util.function.Supplier;

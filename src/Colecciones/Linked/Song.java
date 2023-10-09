@@ -1,4 +1,4 @@
-package Colecciones.Linked;
+package ProgramacionPrimero.src.Colecciones.Linked;
 
 public class Song {
     private String titulo;

@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.Exception;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.Exception;
 
 public class RainException extends Exception{
 

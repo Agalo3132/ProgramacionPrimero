@@ -1,2 +1,2 @@
-package severo.prg;public class Colecciones {
+package ProgramacionPrimero.src.severo.prg;public class Colecciones {
 }

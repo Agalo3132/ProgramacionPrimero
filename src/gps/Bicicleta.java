@@ -1,4 +1,4 @@
-package gps;
+package ProgramacionPrimero.src.gps;
 /**
  * Bicicleta class
  *

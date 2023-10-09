@@ -1,4 +1,4 @@
-package Colecciones;
+package ProgramacionPrimero.src.Colecciones;
 
 import java.util.*;
 

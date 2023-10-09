@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.Exception;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.Exception;
 
 public class Rain {
     public static void main(String[] args){

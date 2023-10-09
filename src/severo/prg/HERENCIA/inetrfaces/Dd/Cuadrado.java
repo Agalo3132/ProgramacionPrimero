@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.inetrfaces.Dd;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.inetrfaces.Dd;
 
 public class Cuadrado implements ShapeOperable{
     private double lado;

@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.polimor;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.polimor;
 
 public class MainPintura {
     public static void main(String[] args) {

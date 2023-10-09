@@ -1,4 +1,4 @@
-package severo.prg.EJRecursivo;
+package ProgramacionPrimero.src.severo.prg.EJRecursivo;
 
 public class Ej5 {
     public static String eliminarAdyacentes(String str) {

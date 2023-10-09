@@ -1,4 +1,4 @@
-package Colecciones.ClasAnid;
+package ProgramacionPrimero.src.Colecciones.ClasAnid;
 
 //Dentro tendré una clase interna llamada Nodo,
 //la clase Nodo tendrá un atributo int llamado dato, otro atributo de tipo Nodo llamado next

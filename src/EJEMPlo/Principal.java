@@ -1,4 +1,4 @@
-package EJEMPlo;
+package ProgramacionPrimero.src.EJEMPlo;
 
 import java.util.*;
 

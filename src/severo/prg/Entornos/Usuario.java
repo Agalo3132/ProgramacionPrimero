@@ -1,4 +1,4 @@
-package severo.prg.Entornos;
+package ProgramacionPrimero.src.severo.prg.Entornos;
 
 public class Usuario {
 	public String nomDestinatario;

@@ -1,4 +1,4 @@
-package severo.prg.Ejercicio11;
+package ProgramacionPrimero.src.severo.prg.Ejercicio11;
 
 public class Ejercicio2 {
     public static void main(String[] args) {

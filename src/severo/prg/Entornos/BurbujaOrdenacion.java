@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package severo.prg.Entornos;
+package ProgramacionPrimero.src.severo.prg.Entornos;
 
 class OrdenaAlgoritmo {
 	

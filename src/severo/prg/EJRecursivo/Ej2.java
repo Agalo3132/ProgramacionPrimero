@@ -1,4 +1,4 @@
-package severo.prg.EJRecursivo;
+package ProgramacionPrimero.src.severo.prg.EJRecursivo;
 
 public class Ej2 {
     public static int contarCaracter(String str, char ch) {

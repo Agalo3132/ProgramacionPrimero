@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.polimor;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.polimor;
 
 public class Shrek extends Pelicula {
 

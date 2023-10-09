@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.abstr;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.abstr;
 
 public class Triangulo extends Forma {
     private int ancho;

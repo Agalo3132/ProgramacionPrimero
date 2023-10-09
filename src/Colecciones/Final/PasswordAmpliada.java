@@ -1,4 +1,4 @@
-package Colecciones.Final;
+package ProgramacionPrimero.src.Colecciones.Final;
 
 public class PasswordAmpliada extends Password {
     private int contraDesencriptada;

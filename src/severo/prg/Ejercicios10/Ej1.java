@@ -1,4 +1,4 @@
-package severo.prg.Ejercicios10;
+package ProgramacionPrimero.src.severo.prg.Ejercicios10;
 
 public class Ej1 {
 

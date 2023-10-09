@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA;
+package ProgramacionPrimero.src.severo.prg.HERENCIA;
 
 public class Video {
 

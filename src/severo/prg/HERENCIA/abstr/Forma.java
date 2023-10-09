@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.abstr;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.abstr;
 
 public abstract class Forma {
 

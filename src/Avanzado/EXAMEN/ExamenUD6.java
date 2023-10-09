@@ -1,4 +1,4 @@
-package Avanzado.EXAMEN;
+package ProgramacionPrimero.src.Avanzado.EXAMEN;
 
 import java.util.ArrayList;
 import java.util.List;

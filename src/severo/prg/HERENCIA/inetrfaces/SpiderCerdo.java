@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.inetrfaces;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.inetrfaces;
 
 public class SpiderCerdo extends Persona implements SuperHeroe {
     public SpiderCerdo(String nombre, int edad) {

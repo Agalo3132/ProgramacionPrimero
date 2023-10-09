@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.abstr.Ej2;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.abstr.Ej2;
 
 public abstract class Employee  {
     private String nomber;

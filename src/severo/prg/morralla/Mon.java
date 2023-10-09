@@ -1,4 +1,4 @@
-package severo.prg.morralla;
+package ProgramacionPrimero.src.severo.prg.morralla;
 
 public class Mon {
     public static void main(String[] args) {

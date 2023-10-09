@@ -1,4 +1,4 @@
-package severo.prg.Arrays.FrecuenciaEjs;
+package ProgramacionPrimero.src.severo.prg.Arrays.FrecuenciaEjs;
 
 public class AnalizadorFrecuencias {
     private FrecuenciaLetra[] frecuencias;

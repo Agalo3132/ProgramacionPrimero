@@ -1,4 +1,4 @@
-package severo.prg;
+package ProgramacionPrimero.src.severo.prg;
 
 public enum DiaSemana {
     LUNES, MARTES, MIERCOLES, JUEVES, VIERNES;

@@ -1,4 +1,4 @@
-package AInOut;
+package ProgramacionPrimero.src.AInOut;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

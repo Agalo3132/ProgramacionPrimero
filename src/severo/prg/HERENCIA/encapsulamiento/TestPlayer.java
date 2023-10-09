@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA.encapsulamiento;
+package ProgramacionPrimero.src.severo.prg.HERENCIA.encapsulamiento;
 
 public class TestPlayer {
     public static void main(String[] args) {

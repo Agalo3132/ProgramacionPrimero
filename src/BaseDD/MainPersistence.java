@@ -1,4 +1,4 @@
-package BaseDD;
+package ProgramacionPrimero.src.BaseDD;
 
 import java.sql.*;
 import java.time.LocalDateTime;

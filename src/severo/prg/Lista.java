@@ -1,4 +1,4 @@
-package severo.prg;
+package ProgramacionPrimero.src.severo.prg;
 
 /**
  * Tendremos un atributo llamado "Lista" será un array de enteros

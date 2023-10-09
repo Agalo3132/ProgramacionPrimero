@@ -1,4 +1,4 @@
-package EJEMPlo;
+package ProgramacionPrimero.src.EJEMPlo;
 
 public class Episodio {
     private String titulo;

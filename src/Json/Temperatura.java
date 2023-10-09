@@ -1,6 +1,5 @@
-package Json;
+package ProgramacionPrimero.src.Json;
 
-import org.json.JSONObject;
 
 import java.io.*;
 import java.net.MalformedURLException;
@@ -33,30 +32,6 @@ public class Temperatura {
              System.out.println("Error");
              return;
          }
-
-        String lat = args[1];
-        String log = args[3];
-        String output = args[4];
-        String url = ("https://api.tutiempo.net/json/?lan=es&apid=45EaXXaaaX4ggap&ll=" + lat + "," + log);
-        String temp = downloadJson(url);
-        JSONObject json = new JSONObject(temp);
-        List<Day> lista = new ArrayList<>();
-
-        for (int i = 1; i <= 7; i++) {
-            Day dia = new Day("day"+i, json.getJSONObject("day"+i).getInt("temperature_max"),json.getJSONObject("day"+i).getInt("temperature_min"),json.getJSONObject("day"+i).getString("text"));
-            lista.add(dia);
-        }
-
-        String str = "";
-
-        try (FileWriter fw = new FileWriter(output)) {
-            for (Day dia : lista) {
-                str+= dia + "\n";
-            }
-            fw.write(str);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
     }
 }

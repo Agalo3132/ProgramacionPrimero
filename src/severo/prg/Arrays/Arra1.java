@@ -1,6 +1,6 @@
-package severo.prg.Arrays;
+package ProgramacionPrimero.src.severo.prg.Arrays;
 
-import severo.prg.Coche;
+import ProgramacionPrimero.src.severo.prg.Coche;
 
 import java.util.Arrays;
 import java.util.Collections;

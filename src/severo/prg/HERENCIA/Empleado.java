@@ -1,4 +1,4 @@
-package severo.prg.HERENCIA;
+package ProgramacionPrimero.src.severo.prg.HERENCIA;
 
 import java.time.LocalDate;
 

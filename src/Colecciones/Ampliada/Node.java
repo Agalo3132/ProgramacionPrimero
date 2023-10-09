@@ -1,4 +1,4 @@
-package Colecciones.Ampliada;
+package ProgramacionPrimero.src.Colecciones.Ampliada;
 
 public class Node extends ListItem{
 

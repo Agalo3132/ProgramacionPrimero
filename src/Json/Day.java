@@ -1,4 +1,4 @@
-package Json;
+package ProgramacionPrimero.src.Json;
 
 public class Day {
     private String dia;

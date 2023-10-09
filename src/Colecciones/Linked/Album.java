@@ -1,4 +1,4 @@
-package Colecciones.Linked;
+package ProgramacionPrimero.src.Colecciones.Linked;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

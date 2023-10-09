@@ -1,4 +1,4 @@
-package Colecciones.Ampliada;
+package ProgramacionPrimero.src.Colecciones.Ampliada;
 
 public abstract class ListItem {
     protected ListItem enlaceIzq;

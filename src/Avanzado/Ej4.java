@@ -1,4 +1,4 @@
-package Avanzado;
+package ProgramacionPrimero.src.Avanzado;
 interface Runnable{
 
     void run();

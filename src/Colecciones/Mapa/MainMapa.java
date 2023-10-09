@@ -1,4 +1,4 @@
-package Colecciones.Mapa;
+package ProgramacionPrimero.src.Colecciones.Mapa;
 
 import java.util.HashMap;
 import java.util.Map;

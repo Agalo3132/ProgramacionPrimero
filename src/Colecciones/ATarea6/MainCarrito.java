@@ -1,4 +1,4 @@
-package Colecciones.ATarea6;
+package ProgramacionPrimero.src.Colecciones.ATarea6;
 
 public class MainCarrito {
     private static StockList stocklist = new StockList();

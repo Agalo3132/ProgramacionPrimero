@@ -1,4 +1,4 @@
-package severo.prg.Arrays;
+package ProgramacionPrimero.src.severo.prg.Arrays;
 
 public class Ej3 {
     public static void main(String[] args) {

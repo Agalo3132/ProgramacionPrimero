@@ -1,4 +1,4 @@
-package Colecciones.Linked;
+package ProgramacionPrimero.src.Colecciones.Linked;
 
 //Un atributo LinkedList de Word llamamos words
 
